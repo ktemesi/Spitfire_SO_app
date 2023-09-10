@@ -22,7 +22,7 @@ Start MobMuPlat and open file Spitfire_SO.mmp.
 
 Load the Spitfire Audio Symphony Orchestra VST plugin in the DAW. 
 
-Play the MIDI keyboard and control the articulations from the mobile phone or tablet.
+Play the MIDI keyboard and control the articulations with the Spitfire_SO app.
 
 References
 
